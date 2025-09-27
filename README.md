@@ -70,8 +70,7 @@ Key flags:
 ![Pan and Zoom (Double Click to Zoom Out)](assets/PanandZoom.gif)
 
 ### Select and change Channels
-![Select and Change Channels)](assets/SelectandChangeChannels.gif)
-
+![Select and Change Channels)](assets/channels.gif)
 
 ### Adjust range sliders
 ![How to adjust range sliders](assets/rangeslider.gif)
