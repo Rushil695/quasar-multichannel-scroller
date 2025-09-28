@@ -67,9 +67,12 @@ Key flags:
 - `--eeg-include` / `--ecg-include`: Comma-separated allow-lists to focus on specific channels.
 
 ### Pan and Zoom
+Double Tap to Zoom Out
 ![Pan and Zoom (Double Click to Zoom Out)](assets/PanandZoom.gif)
 
 ### Select and change Channels
+Double Tap on the Channel to Isolate the selected channel
+Double Tap again to go back to previous state
 ![Select and Change Channels)](assets/channels.gif)
 
 ### Adjust range sliders
